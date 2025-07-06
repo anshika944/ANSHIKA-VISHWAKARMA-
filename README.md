@@ -1,4 +1,4 @@
-<a href="https://readme-typing-svg.demolab.com/demo/?weight=600&size=22&duration=4000&color=1E67F7&lines=I'm+Anshika+Vishwakarma+;UI%2FUX+Designer;Web+Developer;Leveling+up+in+more+domains" /></a>
+<a href="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1E67F7&width=435&lines=I'm+Anshika+Vishwakarma+;UI%2FUX+Designer;Web+Developer;Leveling+up+in+more+domains)](https://git.io/typing-svg)" /></a>
 
 <a href="www.linkedin.com/in/anshika-vishwakarma">
   <div align="center">
