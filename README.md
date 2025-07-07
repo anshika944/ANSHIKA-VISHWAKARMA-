@@ -1,10 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=21BFF7&width=435&lines=I'm+Anshika+Vishwakarma+;UI%2FUX+Designer;Web+Developer;Leveling+up+in+more+domains" alt="Typing SVG" /></a>
-
 <a href="www.linkedin.com/in/anshika-vishwakarma">
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=anshika944&label=+PROFILE+VIEWS+&color=497CF6"/>
   </div>
 </a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=21BFF7&width=434&lines=%F0%9F%91%8BHi%2Cthere;I'm+Anshika+Vishwakarma+;UI%2FUX+Designer;Web+Developer;Leveling+up+in+more+domains" alt="Typing SVG" /></a>
+
 <br>
 <div align="center">
   
@@ -12,11 +13,13 @@
 
 </div>
 <br>
+
 ✦ I’m Anshika Vishwakarma.<br>
 ✦ I focus on developing adaptive, front-end layouts  for smooth, consistent performance.<br>
 ✦ I’m fueled by a deep interest in emerging web technologies and modern development trends to deliver meaningful digital solutions.<br>
 ✦ I’m committed to contributing to open-source projects that promote collaboration, innovation, and growth within the global tech community.<br>
-✦ 📫 Reach out -> vishwakarmaanshika944@gmail.com<br>
+✦ 🤝 Let’s connect! -> vishwakarmaanshika944@gmail.com
+
 </br>
 
 
