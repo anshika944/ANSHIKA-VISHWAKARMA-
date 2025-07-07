@@ -1,5 +1,5 @@
 <a href="www.linkedin.com/in/anshika-vishwakarma">
-  <div align="center">
+  <div align="right">
     <img src="https://komarev.com/ghpvc/?username=anshika944&label=+PROFILE+VIEWS+&color=497CF6"/>
   </div>
 </a>
